@@ -18,4 +18,4 @@ PtruP=p1-p2
 ScongS=s1+s2
 StruS=s1-s2
 print(f"Kết quả cộng: Giờ {hCongh}, Phút {PcongP}, Giây {ScongS}")
-print(f"Kết quả trừ : Giờ {hCongh}, Phút {PcongP}, Giây {ScongS}")
+print(f"Kết quả trừ : Giờ {htruh}, Phút {PtruP}, Giây {StruS}")
